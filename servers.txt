@@ -1,0 +1,9 @@
+# Sample SuiteCRM servers for testing
+# Add your target URLs here, one per line
+
+# Example entries (replace with real targets):
+# https://suitecrm1.example.com
+# https://suitecrm2.example.com
+# http://suitecrm3.example.com
+# 192.168.1.100/suitecrm
+# suitecrm4.example.com
